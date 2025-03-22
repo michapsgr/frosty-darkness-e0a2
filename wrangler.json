@@ -1,0 +1,16 @@
+{
+  "compatibility_date": "2024-11-01",
+  "main": "src/index.ts",
+  "name": "frosty-darkness-e0a2",
+  "upload_source_maps": true,
+  "d1_databases": [
+    {
+      "binding": "DB",
+      "database_id": "17240692-53b6-4a4f-8ccd-234f9d6be926",
+      "database_name": "throbbing-wood-5007-d1"
+    }
+  ],
+  "observability": {
+    "enabled": true
+  }
+}
